@@ -382,7 +382,7 @@ changed, either automatically by Fury, or manually by the user.
 
 `manual` imports behave the same as `locked` imports, except that they may be modified by the user.
 
-#### 'defer' imports
+#### `defer` imports
 
 Imports using the `defer` strategy will be automatically upgraded to use minor revisions that are used by other
 `locked` or `manual` imports.
